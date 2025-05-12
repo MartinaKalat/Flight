@@ -1,0 +1,32 @@
+{
+  "name": "flight",
+  "version": "1.0.0",
+  "description": "using new Flight component",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinaKalat/Flight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MartinaKalat/Flight/issues"
+  },
+  "homepage": "https://github.com/MartinaKalat/Flight#readme",
+  "dependencies": {
+    "jsx": "^0.9.89",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
